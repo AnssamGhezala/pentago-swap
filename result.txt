@@ -1,0 +1,3101 @@
+Game 0
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connecting to localhost:8123... 
+Connected. Waiting for game to start...
+Accepted connection from localhost: Player-0
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+Game started: START Player-1 RandomPlayer
+% 0 0 TL TR 0
+% 3 4 TL TR 1
+% 0 1 TL TR 0
+% 5 2 TR BR 1
+% 0 0 TL TR 0
+% 1 0 TL BR 1
+% 0 2 TL TR 0
+% 5 4 TL BL 1
+% 0 0 TL TR 0
+% 4 2 TL TR 1
+% 0 1 TL TR 0
+% GAMEOVER WINNER 0
+Game 1
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+Game started: START Player-1 260720743
+% 4 2 TR BL 0
+% 0 0 TL TR 1
+% 4 5 TL BR 0
+% 0 0 TL TR 1
+% 0 4 BL BR 0
+% 0 1 TL TR 1
+% 5 3 TL BR 0
+% 0 0 TL TR 1
+% 4 0 TL BL 0
+% 0 0 TL TR 1
+% 2 4 TR BL 0
+% 0 1 TL TR 1
+% 5 0 BL BR 0
+% 0 2 TL TR 1
+% 0 2 TL TR 0
+% GAMEOVER WINNER 1
+Game 2
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-0 260720743Game started: START Player-1 RandomPlayer
+
+% 0 0 TL TR 0
+% 1 0 TR BL 1
+% 0 0 TL TR 0
+% 5 2 TR BR 1
+% 0 0 TL TR 0
+% 0 5 TR BL 1
+% 0 0 TL TR 0
+% 5 4 TR BL 1
+% 0 1 TL TR 0
+% 0 5 TL TR 1
+% 0 4 TL TR 0
+% 5 5 BL BR 1
+% 1 0 TL TR 0
+% 3 2 BL BR 1
+% 1 0 TL TR 0
+% 2 2 BL BR 1
+% 1 1 TL TR 0
+% 3 5 TL BL 1
+% 0 1 TL TR 0
+% 1 2 TL BL 1
+% 1 1 TL TR 0
+% 2 4 TL BL 1
+% 1 5 TL TR 0
+% GAMEOVER WINNER 0
+Game 3
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+% 0 0 TR BR 0
+% 0 1 TL TR 1
+% 1 5 TL BL 0
+% 0 0 TL TR 1
+% 4 1 TL BL 0
+% 0 0 TL TR 1
+% 1 2 TL TR 0
+% 0 1 TL TR 1
+% 5 2 TL BL 0
+% 0 2 TL TR 1
+% 4 3 TL TR 0
+% 0 5 TL TR 1
+% 2 3 TL BR 0
+% 0 0 TL TR 1
+% 0 5 TL BR 0
+% 0 4 TL TR 1
+% 1 5 TL TR 0
+% GAMEOVER WINNER 1
+Game 4
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Connected. Waiting for game to start...
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+Game started: START Player-1 RandomPlayer
+% 0 0 TL TR 0
+% 3 3 TL BL 1
+% 0 0 TL TR 0
+% 1 5 TL BR 1
+% 0 1 TL TR 0
+% 2 3 TL BR 1
+% 0 1 TL TR 0
+% 0 5 TR BL 1
+% 0 2 TL TR 0
+% 2 4 BL BR 1
+% 0 0 TL TR 0
+% 1 5 BL BR 1
+% 0 4 TL TR 0
+% 1 4 TR BR 1
+% 0 2 TL TR 0
+% 4 5 TL TR 1
+% 0 4 TL TR 0
+% 4 1 TR BL 1
+% 0 2 TL TR 0
+% 4 1 BL BR 1
+% GAMEOVER WINNER 0
+Game 5
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743Game started: START Player-0 RandomPlayer
+
+% 2 4 TL BR 0
+% 0 0 TL TR 1
+% 5 0 BL BR 0
+% 0 0 TL TR 1
+% 1 0 BL BR 0
+% 0 1 TL TR 1
+% 3 2 TR BL 0
+% 0 1 TL TR 1
+% 4 2 TR BR 0
+% 0 0 TL TR 1
+% 1 5 TL TR 0
+% 0 1 TL TR 1
+% 1 2 TR BL 0
+% 0 0 TL TR 1
+% 1 1 TL BR 0
+% 0 2 TL TR 1
+% 2 2 TR BL 0
+% GAMEOVER WINNER 1
+Game 6
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+% 0 0 TL TR 0
+% 1 4 TL TR 1
+% 0 1 TL TR 0
+% 2 1 TL TR 1
+% 0 2 TL TR 0
+% 5 0 TL BR 1
+% 0 0 TL TR 0
+% 4 3 TL BL 1
+% 0 0 TL TR 0
+% 0 5 TL BL 1
+% 0 4 TL TR 0
+% 1 5 BL BR 1
+% 1 0 TL TR 0
+% GAMEOVER WINNER 0
+Game 7
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+% 3 4 TR BR 0
+% 0 0 TL TR 1
+% 3 3 TR BL 0
+% 0 0 TL TR 1
+% 4 5 TR BR 0
+% 0 0 TL TR 1
+% 2 1 TR BR 0
+% 0 1 TL TR 1
+% 4 0 TL BR 0
+% 0 1 TL TR 1
+% 4 2 TR BR 0
+% 0 2 TL TR 1
+% 4 5 BL BR 0
+% 0 2 TL TR 1
+% 3 4 TL TR 0
+% 1 0 TL TR 1
+% 3 2 TR BL 0
+% 1 0 TL TR 1
+% 1 4 TL BR 0
+% 0 2 TL TR 1
+% 4 2 TL TR 0
+% 1 1 TL TR 1
+% 4 1 BL BR 0
+% 2 0 TL TR 1
+% 2 5 TR BL 0
+% 1 3 TL TR 1
+% 5 4 TL TR 0
+% 2 4 TL BL 1
+% 1 4 TL BR 0
+% 2 0 TL TR 1
+% 5 2 BL BR 0
+% 2 0 TL TR 1
+% 5 3 TL TR 0
+% 2 2 TL TR 1
+% 5 4 TR BL 0
+% GAMEOVER WINNER 1
+Game 8
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Connected. Waiting for game to start...
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+% 0 0 TL TR 0
+% 1 1 TR BL 1
+% 0 0 TL TR 0
+% 4 3 TR BL 1
+% 0 0 TL TR 0
+% 2 3 TL BR 1
+% 0 0 TL TR 0
+% 2 2 BL BR 1
+% 0 1 TL TR 0
+% 3 4 TR BR 1
+% 0 1 TL TR 0
+% 1 4 TL TR 1
+% 0 2 TL TR 0
+% 0 2 BL BR 1
+% 1 0 TL TR 0
+% 5 5 TR BR 1
+% 0 4 TL TR 0
+% 5 5 TL BR 1
+% 1 2 TL TR 0
+% 2 2 TL BR 1
+% 0 2 TL TR 0
+% 2 1 TL TR 1
+% 5 4 TL BL 0
+% GAMEOVER WINNER 0
+Game 9
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-0 RandomPlayerGame started: START Player-1 260720743
+
+% 0 2 BL BR 0
+% 0 0 TL TR 1
+% 2 0 TL TR 0
+% 0 1 TL TR 1
+% 0 1 TR BL 0
+% 0 0 TL TR 1
+% 4 1 TR BR 0
+% 0 0 TL TR 1
+% 5 2 TL BL 0
+% 0 4 TL TR 1
+% 3 1 TL BL 0
+% 0 0 TL TR 1
+% 5 4 TL BL 0
+% 0 2 TL TR 1
+% 2 0 TR BL 0
+% 0 2 TL TR 1
+% 5 1 TR BL 0
+% 1 0 TL TR 1
+% GAMEOVER WINNER 1
+Game 10
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+Game started: START Player-1 RandomPlayer
+% 0 0 TL TR 0
+% 4 5 TL TR 1
+% 0 1 TL TR 0
+% 2 1 BL BR 1
+% 0 0 TL TR 0
+% 5 0 TL TR 1
+% 0 1 TL TR 0
+% 1 1 TR BR 1
+% 0 2 TL TR 0
+% 2 3 TR BR 1
+% 0 0 TL TR 0
+% 2 5 TL BR 1
+% 0 4 TL TR 0
+% 1 0 TR BR 1
+% 0 2 TL TR 0
+% 5 5 TR BR 1
+% 0 2 TL TR 0
+% GAMEOVER WINNER 0
+Game 11
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743Game started: START Player-0 RandomPlayer
+
+% 5 0 TR BL 0
+% 0 0 TL TR 1
+% 1 3 BL BR 0
+% 0 0 TL TR 1
+% 0 2 BL BR 0
+% 0 1 TL TR 1
+% 4 3 TR BR 0
+% 0 1 TL TR 1
+% 4 1 TL BL 0
+% 0 0 TL TR 1
+% 0 2 BL BR 0
+% 0 4 TL TR 1
+% 1 0 TR BL 0
+% 0 2 TL TR 1
+% 5 1 TL BL 0
+% 1 0 TL TR 1
+% GAMEOVER WINNER 1
+Game 12
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Connected. Waiting for game to start...
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+% 0 0 TL TR 0
+% 2 5 TR BL 1
+% 0 0 TL TR 0
+% 1 0 TR BR 1
+% 0 0 TL TR 0
+% 1 2 TL BR 1
+% 0 1 TL TR 0
+% 5 5 BL BR 1
+% 0 1 TL TR 0
+% 3 1 TR BR 1
+% 0 2 TL TR 0
+% 1 5 TL BL 1
+% 0 0 TL TR 0
+% 5 1 TL BR 1
+% 0 2 TL TR 0
+% 3 2 TR BR 1
+% 0 2 TL TR 0
+% 1 4 TR BR 1
+% GAMEOVER WINNER 0
+Game 13
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+Game started: START Player-1 260720743
+% 1 5 TR BR 0
+% 0 0 TL TR 1
+% 5 1 BL BR 0
+% 0 0 TL TR 1
+% 3 5 TL BL 0
+% 0 0 TL TR 1
+% 0 5 TL BL 0
+% 0 1 TL TR 1
+% 3 3 TR BL 0
+% 0 1 TL TR 1
+% 1 1 TR BR 0
+% 0 1 TL TR 1
+% 5 3 TL BL 0
+% 0 2 TL TR 1
+% 2 0 TL TR 0
+% GAMEOVER WINNER 1
+Game 14
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+% 0 0 TL TR 0
+% 0 1 TL BR 1
+% 0 0 TL TR 0
+% 3 5 TR BL 1
+% 0 1 TL TR 0
+% 0 2 TL TR 1
+% 0 2 TL TR 0
+% 0 1 TR BL 1
+% 0 0 TL TR 0
+% 1 3 TR BL 1
+% 0 1 TL TR 0
+% GAMEOVER WINNER 0
+Game 15
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+% 3 1 TR BR 0
+% 0 0 TL TR 1
+% 2 1 TL BR 0
+% 0 0 TL TR 1
+% 1 3 TR BL 0
+% 0 1 TL TR 1
+% 4 5 TR BR 0
+% 0 0 TL TR 1
+% 2 3 TL BR 0
+% 0 2 TL TR 1
+% 2 5 TR BR 0
+% 0 2 TL TR 1
+% 5 2 TR BR 0
+% 0 0 TL TR 1
+% 4 1 TL TR 0
+% 0 1 TL TR 1
+% GAMEOVER WINNER 1
+Game 16
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Connected. Waiting for game to start...
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+% 0 0 TL TR 0
+% 2 3 TL TR 1
+% 0 1 TL TR 0
+% 3 4 TL BR 1
+% 0 0 TL TR 0
+% 1 0 TL TR 1
+% 0 2 TL TR 0
+% 5 2 TR BR 1
+% 0 2 TL TR 0
+% 4 3 TL TR 1
+% 0 3 TL TR 0
+% 1 2 TR BR 1
+% 0 1 TL TR 0
+% 1 1 TR BL 1
+% 0 3 TL TR 0
+% 1 5 TR BL 1
+% 0 1 TL TR 0
+% 2 0 TR BL 1
+% 1 1 TR BR 0
+% 1 5 TR BL 1
+% 4 1 TR BR 0
+% GAMEOVER WINNER 0
+Game 17
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Connected. Waiting for game to start...
+Accepted connection from localhost: Player-1
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Game started: START Player-1 260720743Game started: START Player-0 RandomPlayer
+
+% 3 0 TL TR 0
+% 0 0 TL TR 1
+% 0 0 TR BR 0
+% 0 1 TL TR 1
+% 0 2 BL BR 0
+% 0 0 TL TR 1
+% 2 4 TL BR 0
+% 0 1 TL TR 1
+% 2 5 BL BR 0
+% 0 1 TL TR 1
+% 3 4 BL BR 0
+% 0 2 TL TR 1
+% 2 2 TR BR 0
+% 0 5 TL TR 1
+% 1 4 TL BR 0
+% 1 0 TL TR 1
+% 5 3 TR BR 0
+% 1 0 TL TR 1
+% 4 2 TL BL 0
+% 0 2 TL TR 1
+% 5 1 TL BL 0
+% 1 0 TL TR 1
+% 2 5 TR BR 0
+% GAMEOVER WINNER 0
+Game 18
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+Game started: START Player-1 RandomPlayer
+% 0 0 TL TR 0
+% 0 5 TR BL 1
+% 0 0 TL TR 0
+% 0 1 TR BR 1
+% 0 0 TL TR 0
+% 0 2 TL BL 1
+% 0 1 TL TR 0
+% 5 1 TL BR 1
+% 0 1 TL TR 0
+% 5 2 TR BR 1
+% 0 5 TL TR 0
+% 2 3 TR BR 1
+% 0 5 TL TR 0
+% 4 2 TL BL 1
+% GAMEOVER WINNER 0
+Game 19
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-0 RandomPlayerGame started: START Player-1 260720743
+
+% 3 3 TR BR 0
+% 0 0 TL TR 1
+% 2 5 TL BL 0
+% 0 0 TL TR 1
+% 1 3 TL TR 0
+% 0 1 TL TR 1
+% 2 3 TR BL 0
+% 0 1 TL TR 1
+% 3 3 TR BR 0
+% 0 1 TL TR 1
+% 5 1 TR BR 0
+% 0 1 TL TR 1
+% 1 4 BL BR 0
+% 0 2 TL TR 1
+% 4 2 TL TR 0
+% 0 5 TL TR 1
+% GAMEOVER WINNER 1
+Game 20
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Connected. Waiting for game to start...
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-0 260720743Game started: START Player-1 RandomPlayer
+
+% 0 0 TL TR 0
+% 3 0 TL TR 1
+% 0 1 TL TR 0
+% 2 4 TR BR 1
+% 0 0 TL TR 0
+% 2 3 TL BR 1
+% 0 2 TL TR 0
+% 3 3 TL BR 1
+% 0 1 TL TR 0
+% 2 2 TR BL 1
+% 0 4 TL TR 0
+% 5 1 TL BL 1
+% 0 2 TL TR 0
+% 1 2 TL TR 1
+% GAMEOVER WINNER 0
+Game 21
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-0 RandomPlayerGame started: START Player-1 260720743
+
+% 1 0 TR BR 0
+% 0 0 TL TR 1
+% 5 3 TL TR 0
+% 0 1 TL TR 1
+% 5 1 TR BR 0
+% 0 0 TL TR 1
+% 0 2 TR BR 0
+% 0 0 TL TR 1
+% 3 5 TL TR 0
+% 0 1 TL TR 1
+% 4 1 TL BR 0
+% 0 1 TL TR 1
+% 3 0 TR BL 0
+% 0 4 TL TR 1
+% 5 4 TL TR 0
+% 2 1 TR BR 1
+% 1 1 TR BR 0
+% 1 0 TR BR 1
+% 3 5 TL TR 0
+% 0 2 TL TR 1
+% 4 0 TL BR 0
+% 1 0 TL TR 1
+% 5 0 TR BR 0
+% GAMEOVER WINNER 1
+Game 22
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+% 0 0 TL TR 0
+% 1 2 TL BL 1
+% 0 0 TL TR 0
+% 4 3 TR BR 1
+% 0 1 TL TR 0
+% 3 1 TR BR 1
+% 0 0 TL TR 0
+% 2 3 TL BL 1
+% 0 0 TL TR 0
+% 2 3 TL BR 1
+% 0 2 TL TR 0
+% 3 2 TL BR 1
+% 0 1 TL TR 0
+% GAMEOVER WINNER 0
+Game 23
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-0 RandomPlayerGame started: START Player-1 260720743
+
+% 3 3 TR BL 0
+% 0 0 TL TR 1
+% 2 1 TL TR 0
+% 0 1 TL TR 1
+% 1 0 TR BR 0
+% 0 0 TL TR 1
+% 4 4 TL TR 0
+% 0 1 TL TR 1
+% 1 1 TL BL 0
+% 0 0 TL TR 1
+% 1 2 BL BR 0
+% 0 2 TL TR 1
+% 5 4 TL BL 0
+% 0 2 TL TR 1
+% GAMEOVER WINNER 1
+Game 24
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+% 0 0 TL TR 0
+% 2 1 TR BR 1
+% 0 0 TL TR 0
+% 4 5 BL BR 1
+% 0 0 TL TR 0
+% 2 5 TL BL 1
+% 0 1 TL TR 0
+% 5 3 TR BL 1
+% 0 1 TL TR 0
+% 2 4 TL BL 1
+% 0 2 TL TR 0
+% 5 5 BL BR 1
+% 0 2 TL TR 0
+% GAMEOVER WINNER 0
+Game 25
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+% 0 0 BL BR 0
+% 0 1 TL TR 1
+% 3 0 TL TR 0
+% 0 2 TL TR 1
+% 5 3 TL TR 0
+% 0 3 TL TR 1
+% 3 2 TR BL 0
+% 0 1 TL TR 1
+% 0 5 TL TR 0
+% 0 4 TL TR 1
+% 2 4 TR BR 0
+% 0 3 TL TR 1
+% 4 1 TR BL 0
+% 0 1 TL TR 1
+% 4 1 TR BL 0
+% 1 0 TL TR 1
+% 2 3 TR BL 0
+% 0 5 TL TR 1
+% 1 3 TL BL 0
+% GAMEOVER WINNER 1
+Game 26
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+Game started: START Player-1 RandomPlayer
+% 0 0 TL TR 0
+% 5 0 BL BR 1
+% 0 0 TL TR 0
+% 4 3 BL BR 1
+% 0 1 TL TR 0
+% 1 5 TL BR 1
+% 0 0 TL TR 0
+% 5 5 TR BR 1
+% 0 2 TL TR 0
+% 1 0 TR BL 1
+% 0 1 TL TR 0
+% 4 5 BL BR 1
+% 0 0 TL TR 0
+% 4 3 TL TR 1
+% 0 1 TL TR 0
+% 2 1 BL BR 1
+% 2 4 TL BL 0
+% GAMEOVER WINNER 0
+Game 27
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-0 RandomPlayerGame started: START Player-1 260720743
+
+% 5 2 TL TR 0
+% 0 0 TL TR 1
+% 3 0 TR BR 0
+% 0 0 TL TR 1
+% 5 0 TL BR 0
+% 0 1 TL TR 1
+% 0 2 TL BL 0
+% 0 1 TL TR 1
+% 2 0 TL TR 0
+% 0 2 TL TR 1
+% 4 0 TL BR 0
+% 0 0 TL TR 1
+% 4 2 TR BR 0
+% 0 5 TL TR 1
+% 3 1 TR BR 0
+% 0 4 TL TR 1
+% 1 2 BL BR 0
+% 0 2 TL TR 1
+% GAMEOVER WINNER 1
+Game 28
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+% 0 0 TL TR 0
+% 2 1 TR BL 1
+% 0 0 TL TR 0
+% 0 5 TL TR 1
+% 0 1 TL TR 0
+% 5 0 TL TR 1
+% 0 3 TL TR 0
+% 4 3 TL BR 1
+% 0 0 TL TR 0
+% 5 5 TR BR 1
+% 0 4 TL TR 0
+% 2 0 TL TR 1
+% 0 5 TL TR 0
+% GAMEOVER WINNER 0
+Game 29
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+% 4 5 TL TR 0
+% 0 0 TL TR 1
+% 4 2 TR BR 0
+% 0 0 TL TR 1
+% 0 2 TL TR 0
+% 0 1 TL TR 1
+% 3 1 TL TR 0
+% 0 2 TL TR 1
+% 0 0 TR BL 0
+% 0 1 TL TR 1
+% 4 3 TL BR 0
+% 0 1 TL TR 1
+% 1 5 TL TR 0
+% 0 2 TL TR 1
+% 5 4 TL TR 0
+% 1 1 TL TR 1
+% 2 0 TL BR 0
+% 0 0 TL TR 1
+% 4 4 TL TR 0
+% 0 2 TL TR 1
+% 2 1 TL TR 0
+% 1 0 TL TR 1
+% 2 3 TR BR 0
+% 1 3 TL TR 1
+% 5 2 TR BR 0
+% GAMEOVER WINNER 1
+Game 30
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayerGame started: START Player-0 260720743
+
+% 0 0 TL TR 0
+% 1 0 TL BR 1
+% 0 0 TL TR 0
+% 4 2 BL BR 1
+% 0 1 TL TR 0
+% 5 3 TL TR 1
+% 0 2 TL TR 0
+% 4 2 TL TR 1
+% 0 4 TL TR 0
+% 0 2 BL BR 1
+% 1 0 TL TR 0
+% GAMEOVER WINNER 0
+Game 31
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+Game started: START Player-1 260720743
+% 2 2 TR BR 0
+% 0 0 TL TR 1
+% 4 4 TL BL 0
+% 0 0 TL TR 1
+% 1 1 TL BL 0
+% 0 0 TL TR 1
+% 4 5 TR BL 0
+% 0 1 TL TR 1
+% 2 3 BL BR 0
+% 0 1 TL TR 1
+% 5 2 TL TR 0
+% 0 2 TL TR 1
+% 0 2 TR BL 0
+% 0 3 TL TR 1
+% 2 4 TL BR 0
+% 0 1 TL TR 1
+% 2 5 TL BR 0
+% GAMEOVER WINNER 1
+Game 32
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayerGame started: START Player-0 260720743
+
+% 0 0 TL TR 0
+% 4 1 TL TR 1
+% 0 1 TL TR 0
+% 3 5 TL BL 1
+% 0 0 TL TR 0
+% 2 0 TL TR 1
+% 0 1 TL TR 0
+% 5 5 BL BR 1
+% 0 2 TL TR 0
+% 3 1 TL BR 1
+% 0 0 TL TR 0
+% 1 3 TR BL 1
+% 0 3 TL TR 0
+% 5 2 TL BR 1
+% 0 2 TL TR 0
+% GAMEOVER WINNER 0
+Game 33
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-0 RandomPlayerGame started: START Player-1 260720743
+
+% 1 1 BL BR 0
+% 0 0 TL TR 1
+% 5 3 TL BR 0
+% 0 0 TL TR 1
+% 2 2 TR BL 0
+% 0 1 TL TR 1
+% 1 3 TL BR 0
+% 0 0 TL TR 1
+% 3 3 TL TR 0
+% 0 1 TL TR 1
+% 5 1 TR BR 0
+% 0 2 TL TR 1
+% 1 2 TR BR 0
+% 0 1 TL TR 1
+% 4 2 BL BR 0
+% 5 5 TL BL 1
+% 4 3 BL BR 0
+% 0 5 TL TR 1
+% GAMEOVER WINNER 1
+Game 34
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayerGame started: START Player-0 260720743
+
+% 0 0 TL TR 0
+% 2 5 TL TR 1
+% 0 1 TL TR 0
+% 5 5 BL BR 1
+% 0 0 TL TR 0
+% 2 1 BL BR 1
+% 0 2 TL TR 0
+% 3 5 TR BL 1
+% 0 1 TL TR 0
+% 2 2 BL BR 1
+% 0 0 TL TR 0
+% 1 5 TR BL 1
+% 0 2 TL TR 0
+% 2 0 TR BL 1
+% GAMEOVER WINNER 0
+Game 35
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+Game started: START Player-1 260720743
+% 1 1 TL BR 0
+% 0 0 TL TR 1
+% 3 5 TL TR 0
+% 0 1 TL TR 1
+% 1 0 TL BL 0
+% 0 0 TL TR 1
+% 3 2 TR BR 0
+% 0 2 TL TR 1
+% 1 5 TL BL 0
+% 0 0 TL TR 1
+% 3 0 TL BR 0
+% 0 1 TL TR 1
+% 1 4 TR BL 0
+% 0 1 TL TR 1
+% 2 2 TR BR 0
+% 0 1 TL TR 1
+% 4 2 BL BR 0
+% 1 0 TL TR 1
+% 4 1 TL BL 0
+% 1 2 TL TR 1
+% GAMEOVER WINNER 1
+Game 36
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayerGame started: START Player-0 260720743
+
+% 0 0 TL TR 0
+% 3 5 TR BL 1
+% 0 0 TL TR 0
+% 2 3 TR BL 1
+% 0 0 TL TR 0
+% 5 4 TR BL 1
+% 0 1 TL TR 0
+% 1 2 TR BR 1
+% 0 1 TL TR 0
+% 3 2 TR BL 1
+% 0 0 TL TR 0
+% 5 4 TR BL 1
+% 0 1 TL TR 0
+% 2 3 TL BR 1
+% 0 2 TL TR 0
+% 4 1 TR BL 1
+% GAMEOVER WINNER 0
+Game 37
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-0 RandomPlayerGame started: START Player-1 260720743
+
+% 0 2 TL BR 0
+% 0 0 TL TR 1
+% 0 2 TL BL 0
+% 0 0 TL TR 1
+% 2 5 TL BL 0
+% 0 0 TL TR 1
+% 1 2 TL TR 0
+% 0 1 TL TR 1
+% 4 2 TL TR 0
+% 0 4 TL TR 1
+% 5 1 TL TR 0
+% 0 5 TL TR 1
+% GAMEOVER WINNER 1
+Game 38
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayerGame started: START Player-0 260720743
+
+% 0 0 TL TR 0
+% 1 2 TL TR 1
+% 0 1 TL TR 0
+% 2 5 TR BR 1
+% 0 0 TL TR 0
+% 5 2 TL BR 1
+% 0 2 TL TR 0
+% 0 2 TL BL 1
+% 0 0 TL TR 0
+% 5 2 TL BL 1
+% 0 1 TL TR 0
+% 3 4 TL BR 1
+% 0 0 TL TR 0
+% 2 4 TL BR 1
+% GAMEOVER WINNER 0
+Game 39
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+% 4 5 TL BL 0
+% 0 0 TL TR 1
+% 0 4 TL BL 0
+% 0 0 TL TR 1
+% 2 3 TR BL 0
+% 0 2 TL TR 1
+% 1 3 TL BR 0
+% 0 0 TL TR 1
+% 4 0 TL TR 0
+% 0 1 TL TR 1
+% 5 4 TR BL 0
+% 0 4 TL TR 1
+% 3 2 TR BR 0
+% 0 2 TL TR 1
+% 5 2 TR BL 0
+% 4 5 TL BL 1
+% GAMEOVER WINNER 1
+Game 40
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayerGame started: START Player-0 260720743
+
+% 0 0 TL TR 0
+% 3 4 TL BL 1
+% 0 0 TL TR 0
+% 2 1 BL BR 1
+% 0 1 TL TR 0
+% 0 5 TL BL 1
+% 0 0 TL TR 0
+% 3 1 TR BL 1
+% 0 5 TL TR 0
+% 3 3 TL BR 1
+% 0 1 TL TR 0
+% 1 1 TL TR 1
+% 0 2 TL TR 0
+% 2 2 TR BR 1
+% 1 0 TL TR 0
+% 2 2 BL BR 1
+% 4 4 TL BL 0
+% 3 5 TL BR 1
+% 1 0 TL TR 0
+% 5 5 TL BR 1
+% 1 0 TL TR 0
+% 1 4 TL BL 1
+% 1 0 TL TR 0
+% 1 5 TR BL 1
+% 1 2 TL TR 0
+% 2 1 BL BR 1
+% 1 2 TL TR 0
+% 4 4 TR BR 1
+% 2 0 TL TR 0
+% 2 0 TL TR 1
+% 2 1 TL TR 0
+% 5 0 TL BL 1
+% 1 2 TL TR 0
+% 5 5 TR BR 1
+% 2 3 TL TR 0
+% GAMEOVER WINNER 0
+Game 41
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+% 2 1 BL BR 0
+% 0 0 TL TR 1
+% 1 1 TR BR 0
+% 0 0 TL TR 1
+% 3 0 BL BR 0
+% 0 0 TL TR 1
+% 3 4 TR BL 0
+% 0 1 TL TR 1
+% 1 2 TL BL 0
+% 0 1 TL TR 1
+% 5 2 BL BR 0
+% 0 2 TL TR 1
+% 5 0 TR BR 0
+% 0 2 TL TR 1
+% 2 3 BL BR 0
+% 0 1 TL TR 1
+% GAMEOVER WINNER 1
+Game 42
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayerGame started: START Player-0 260720743
+
+% 0 0 TL TR 0
+% 2 4 TL BL 1
+% 0 0 TL TR 0
+% 1 0 TR BR 1
+% 0 1 TL TR 0
+% 3 5 TL TR 1
+% 0 2 TL TR 0
+% 0 1 TL BL 1
+% 0 0 TL TR 0
+% 5 5 TL BL 1
+% 0 0 TL TR 0
+% 1 5 TL BL 1
+% 0 5 TL TR 0
+% 2 3 TL BR 1
+% 0 1 TL TR 0
+% GAMEOVER WINNER 0
+Game 43
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+% 3 0 TL BL 0
+% 0 1 TL TR 1
+% 2 4 TR BR 0
+% 0 0 TL TR 1
+% 2 2 TL TR 0
+% 0 1 TL TR 1
+% 3 2 TL BR 0
+% 0 2 TL TR 1
+% 4 5 TR BL 0
+% 0 2 TL TR 1
+% 2 3 TR BL 0
+% 0 0 TL TR 1
+% 2 4 TL TR 0
+% 0 1 TL TR 1
+% 1 5 TR BR 0
+% GAMEOVER WINNER 1
+Game 44
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+% 0 0 TL TR 0
+% 0 4 TR BR 1
+% 0 0 TL TR 0
+% 4 2 TL BR 1
+% 0 2 TL TR 0
+% 4 0 TL BR 1
+% 0 0 TL TR 0
+% 3 0 TL BR 1
+% 0 1 TL TR 0
+% 4 4 TL BL 1
+% 0 1 TL TR 0
+% 2 3 TR BR 1
+% 0 2 TL TR 0
+% 2 4 BL BR 1
+% 1 0 TL TR 0
+% 5 4 TR BR 1
+% 0 4 TL TR 0
+% 5 3 BL BR 1
+% 0 2 TL TR 0
+% GAMEOVER WINNER 0
+Game 45
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+% 5 1 BL BR 0
+% 0 0 TL TR 1
+% 3 4 TL BL 0
+% 0 0 TL TR 1
+% 5 1 TL BL 0
+% 0 0 TL TR 1
+% 1 2 TR BL 0
+% 0 1 TL TR 1
+% 2 5 TL BL 0
+% 0 1 TL TR 1
+% 5 5 TL BL 0
+% 0 1 TL TR 1
+% 4 0 TL BR 0
+% 0 0 TL TR 1
+% 3 5 TL TR 0
+% 0 2 TL TR 1
+% 4 5 TL BL 0
+% 0 2 TL TR 1
+% 5 2 TL BL 0
+% 0 2 TL TR 1
+% GAMEOVER WINNER 1
+Game 46
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-0 260720743Game started: START Player-1 RandomPlayer
+
+% 0 0 TL TR 0
+% 5 1 TR BL 1
+% 0 0 TL TR 0
+% 3 3 TL BL 1
+% 0 1 TL TR 0
+% 4 0 TR BR 1
+% 0 1 TL TR 0
+% 5 4 TL TR 1
+% 0 2 TL TR 0
+% 3 0 TR BR 1
+% 0 1 TL TR 0
+% 4 4 TL BL 1
+% 0 1 TL TR 0
+% 5 3 TR BL 1
+% 0 2 TL TR 0
+% 1 1 TR BR 1
+% 0 2 TL TR 0
+% GAMEOVER WINNER 0
+Game 47
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+% 0 0 TL BR 0
+% 0 0 TL TR 1
+% 5 1 BL BR 0
+% 0 0 TL TR 1
+% 1 4 BL BR 0
+% 0 1 TL TR 1
+% 3 5 TR BL 0
+% 0 1 TL TR 1
+% 5 4 TL BL 0
+% 0 2 TL TR 1
+% 1 0 TR BL 0
+% 0 2 TL TR 1
+% 1 1 TL BL 0
+% GAMEOVER WINNER 1
+Game 48
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+% 0 0 TL TR 0
+% 4 2 TL TR 1
+% 0 1 TL TR 0
+% 3 2 TL BL 1
+% 0 0 TL TR 0
+% 2 4 TL BL 1
+% 0 0 TL TR 0
+% 3 2 TL BR 1
+% 0 0 TL TR 0
+% 2 3 TL TR 1
+% 0 1 TL TR 0
+% 1 4 BL BR 1
+% 0 1 TL TR 0
+% 1 5 TL TR 1
+% 0 2 TL TR 0
+% 1 2 TL TR 1
+% GAMEOVER WINNER 0
+Game 49
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+Game started: START Player-1 260720743
+% 5 1 TL BL 0
+% 0 0 TL TR 1
+% 4 0 TR BL 0
+% 0 0 TL TR 1
+% 5 3 BL BR 0
+% 0 0 TL TR 1
+% 2 1 TR BL 0
+% 0 1 TL TR 1
+% 2 2 TL TR 0
+% 0 2 TL TR 1
+% 5 2 TL TR 0
+% 0 3 TL TR 1
+% 2 5 TL BL 0
+% 0 1 TL TR 1
+% GAMEOVER WINNER 1
+Game 50
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayerGame started: START Player-0 260720743
+
+% 0 0 TL TR 0
+% 0 0 TL BR 1
+% 0 0 TL TR 0
+% 0 1 TR BL 1
+% 0 2 TL TR 0
+% 4 4 BL BR 1
+% 0 0 TL TR 0
+% 1 4 TR BR 1
+% 0 4 TL TR 0
+% 2 4 TL TR 1
+% 0 5 TL TR 0
+% 3 4 TL BL 1
+% 0 1 TL TR 0
+% 4 2 TR BL 1
+% 1 0 TL TR 0
+% 3 5 TL BL 1
+% 0 2 TL TR 0
+% 4 5 TL BL 1
+% 1 0 TL TR 0
+% GAMEOVER WINNER 0
+Game 51
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-0 RandomPlayerGame started: START Player-1 260720743
+
+% 2 5 TR BL 0
+% 0 0 TL TR 1
+% 0 2 BL BR 0
+% 0 0 TL TR 1
+% 4 1 TL BR 0
+% 0 0 TL TR 1
+% 0 1 TR BL 0
+% 0 3 TL TR 1
+% 3 1 TL TR 0
+% 0 4 TL TR 1
+% 4 4 TL TR 0
+% 0 5 TL TR 1
+% 4 2 TL BL 0
+% 0 2 TL TR 1
+% 4 5 TL BL 0
+% 1 0 TL TR 1
+% 2 4 TL BL 0
+% 1 0 TL TR 1
+% 3 5 BL BR 0
+% 1 2 TL TR 1
+% 2 2 TL BL 0
+% 4 4 TL BL 1
+% 5 3 TR BL 0
+% 0 4 TL TR 1
+% 1 4 TL BL 0
+% 1 5 TL TR 1
+% 2 1 TR BR 0
+% 1 3 TL TR 1
+% 4 0 TR BL 0
+% 2 1 TR BR 1
+% 2 5 TL BL 0
+% 2 0 TL TR 1
+% 5 3 TL BR 0
+% GAMEOVER WINNER 1
+Game 52
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+% 0 0 TL TR 0
+% 3 4 TL BL 1
+% 0 0 TL TR 0
+% 1 1 TL BR 1
+% 0 0 TL TR 0
+% 3 4 TL BR 1
+% 0 2 TL TR 0
+% 5 4 BL BR 1
+% 0 2 TL TR 0
+% 2 1 TL BR 1
+% 0 0 TL TR 0
+% 4 1 TR BR 1
+% 1 0 TL TR 0
+% 2 4 BL BR 1
+% 3 1 TR BR 0
+% 0 4 TL BR 1
+% GAMEOVER WINNER 1
+Game 53
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+% 3 3 TL TR 0
+% 0 0 TL TR 1
+% 4 3 TR BR 0
+% 0 0 TL TR 1
+% 5 5 BL BR 0
+% 0 1 TL TR 1
+% 3 4 BL BR 0
+% 0 1 TL TR 1
+% 2 1 TL BR 0
+% 0 1 TL TR 1
+% 4 4 TR BR 0
+% 0 2 TL TR 1
+% 3 0 TL BL 0
+% 0 2 TL TR 1
+% 4 3 TR BR 0
+% GAMEOVER WINNER 1
+Game 54
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+% 0 0 TL TR 0
+% 2 0 TL BR 1
+% 0 0 TL TR 0
+% 4 2 TR BL 1
+% 0 1 TL TR 0
+% 3 3 TL BR 1
+% 0 1 TL TR 0
+% 4 2 TL BR 1
+% 0 0 TL TR 0
+% 4 3 TL BR 1
+% 0 2 TL TR 0
+% 5 0 TL TR 1
+% 0 4 TL TR 0
+% 0 2 BL BR 1
+% 1 0 TL TR 0
+% GAMEOVER WINNER 0
+Game 55
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Connected. Waiting for game to start...
+Accepted connection from localhost: Player-1
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Game started: START Player-0 RandomPlayer
+Game started: START Player-1 260720743
+% 3 0 TL BR 0
+% 0 0 TL TR 1
+% 2 5 BL BR 0
+% 0 0 TL TR 1
+% 5 4 TL BR 0
+% 0 1 TL TR 1
+% 3 5 TL TR 0
+% 0 2 TL TR 1
+% 1 1 TL BL 0
+% 0 0 TL TR 1
+% 0 4 TR BL 0
+% 0 4 TL TR 1
+% 4 1 TL BL 0
+% 0 2 TL TR 1
+% 1 0 BL BR 0
+% 1 1 TL TR 1
+% 4 5 TR BR 0
+% 0 5 TL TR 1
+% 1 5 TL BL 0
+% 0 1 TL TR 1
+% 2 4 BL BR 0
+% GAMEOVER WINNER 1
+Game 56
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+% 0 0 TL TR 0
+% 4 4 TR BR 1
+% 0 0 TL TR 0
+% 5 1 TL TR 1
+% 0 1 TL TR 0
+% 3 2 TR BR 1
+% 0 0 TL TR 0
+% 0 5 TL TR 1
+% 0 1 TL TR 0
+% 4 5 TL TR 1
+% 0 4 TL TR 0
+% 5 2 TL BR 1
+% 0 2 TL TR 0
+% 5 5 TL TR 1
+% GAMEOVER WINNER 0
+Game 57
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743Game started: START Player-0 RandomPlayer
+
+% 1 2 BL BR 0
+% 0 0 TL TR 1
+% 2 0 TL TR 0
+% 0 1 TL TR 1
+% 2 4 TR BL 0
+% 0 0 TL TR 1
+% 2 2 TR BR 0
+% 0 0 TL TR 1
+% 4 1 TL TR 0
+% 0 1 TL TR 1
+% 1 3 TL BL 0
+% 0 2 TL TR 1
+% 4 2 TL BL 0
+% 0 0 TL TR 1
+% 3 5 BL BR 0
+% 0 4 TL TR 1
+% 5 1 TL BL 0
+% 0 1 TL TR 1
+% GAMEOVER WINNER 1
+Game 58
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+% 0 0 TL TR 0
+% 4 2 TL BR 1
+% 0 0 TL TR 0
+% 1 1 TL TR 1
+% 0 1 TL TR 0
+% 3 2 TL TR 1
+% 0 2 TL TR 0
+% 4 0 TL BR 1
+% 0 0 TL TR 0
+% 1 4 TL BL 1
+% 0 0 TL TR 0
+% 5 0 TL TR 1
+% 0 1 TL TR 0
+% 4 1 TL TR 1
+% 0 4 TL TR 0
+% 5 5 TR BR 1
+% GAMEOVER WINNER 0
+Game 59
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-0 RandomPlayerGame started: START Player-1 260720743
+
+% 3 5 TL TR 0
+% 0 0 TL TR 1
+% 4 0 TR BR 0
+% 0 0 TL TR 1
+% 3 0 TR BL 0
+% 0 0 TL TR 1
+% 3 2 TL BR 0
+% 0 1 TL TR 1
+% 5 3 TL BR 0
+% 4 0 TR BR 1
+% 2 2 TR BL 0
+% 4 0 TR BR 1
+% 5 3 TR BL 0
+% 4 0 TR BR 1
+% 5 2 TR BR 0
+% 5 0 TR BR 1
+% 4 2 TL TR 0
+% 0 1 TL TR 1
+% 5 3 TL BL 0
+% 0 2 TL TR 1
+% GAMEOVER WINNER 1
+Game 60
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+% 0 0 TL TR 0
+% 0 0 TL BR 1
+% 0 0 TL TR 0
+% 0 1 TL BL 1
+% 0 0 TL TR 0
+% 4 2 TR BR 1
+% 0 1 TL TR 0
+% 5 0 TR BR 1
+% 0 1 TL TR 0
+% 0 1 TL BR 1
+% 0 2 TL TR 0
+% 5 3 TL BR 1
+% 0 2 TL TR 0
+% 5 5 TR BR 1
+% 2 0 TR BR 0
+% 1 3 BL BR 1
+% 1 0 TL TR 0
+% 4 3 TL TR 1
+% 1 2 TR BR 0
+% 1 4 TR BL 1
+% 4 4 TL BL 0
+% 5 5 BL BR 1
+% 0 2 TL TR 0
+% GAMEOVER WINNER 1
+Game 61
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+Game started: START Player-1 260720743
+% 0 1 TR BL 0
+% 0 0 TL TR 1
+% 0 1 TL BR 0
+% 0 0 TL TR 1
+% 2 5 TL BR 0
+% 0 0 TL TR 1
+% 2 3 BL BR 0
+% 0 1 TL TR 1
+% 4 3 BL BR 0
+% 0 2 TL TR 1
+% 0 2 BL BR 0
+% 1 0 TL TR 1
+% 4 1 TR BR 0
+% 0 3 TL TR 1
+% 5 2 TL BR 0
+% 1 1 TL TR 1
+% 5 0 TL TR 0
+% 1 2 TL TR 1
+% 2 4 TL BR 0
+% 0 1 TL TR 1
+% 2 4 TL BL 0
+% 5 4 TL BL 1
+% 5 1 TR BL 0
+% GAMEOVER WINNER 0
+Game 62
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+% 0 0 TL TR 0
+% 2 5 TL BL 1
+% 0 0 TL TR 0
+% 2 0 TR BR 1
+% 0 1 TL TR 0
+% 4 4 TR BL 1
+% 0 0 TL TR 0
+% 2 1 TR BR 1
+% 0 0 TL TR 0
+% 5 4 BL BR 1
+% 0 1 TL TR 0
+% 4 1 TL BL 1
+% 0 1 TL TR 0
+% 3 2 TR BL 1
+% 0 2 TL TR 0
+% 5 0 TL BR 1
+% 0 2 TL TR 0
+% GAMEOVER WINNER 0
+Game 63
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+% 3 5 TR BR 0
+% 0 0 TL TR 1
+% 1 3 TL TR 0
+% 0 1 TL TR 1
+% 4 5 TR BL 0
+% 0 0 TL TR 1
+% 0 2 TR BL 0
+% 0 0 TL TR 1
+% 1 4 TL TR 0
+% 0 1 TL TR 1
+% 2 4 TL BR 0
+% 0 0 TL TR 1
+% 5 3 TL TR 0
+% 0 1 TL TR 1
+% 4 4 TL BR 0
+% 0 2 TL TR 1
+% 4 2 TR BL 0
+% GAMEOVER WINNER 1
+Game 64
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayerGame started: START Player-0 260720743
+
+% 0 0 TL TR 0
+% 4 3 TL BR 1
+% 0 0 TL TR 0
+% 5 0 TL TR 1
+% 0 1 TL TR 0
+% 5 3 BL BR 1
+% 0 1 TL TR 0
+% 3 1 TR BL 1
+% 0 2 TL TR 0
+% 1 0 TL BR 1
+% 0 0 TL TR 0
+% 1 3 TL BR 1
+% 0 0 TL TR 0
+% 1 2 BL BR 1
+% GAMEOVER WINNER 0
+Game 65
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-0 RandomPlayerGame started: START Player-1 260720743
+
+% 0 5 TL BL 0
+% 0 0 TL TR 1
+% 2 4 BL BR 0
+% 0 0 TL TR 1
+% 1 3 TL TR 0
+% 0 1 TL TR 1
+% 4 3 TR BR 0
+% 0 1 TL TR 1
+% 2 2 TL BR 0
+% 0 5 TL TR 1
+% GAMEOVER WINNER 1
+Game 66
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayerGame started: START Player-0 260720743
+
+% 0 0 TL TR 0
+% 4 1 TL TR 1
+% 0 1 TL TR 0
+% 5 3 TL BL 1
+% 0 0 TL TR 0
+% 3 5 TL TR 1
+% 0 1 TL TR 0
+% 4 4 TL BL 1
+% 0 0 TL TR 0
+% 5 0 TL BR 1
+% 0 0 TL TR 0
+% 5 5 TL BR 1
+% 0 2 TL TR 0
+% 3 4 TL BR 1
+% 0 2 TL TR 0
+% 4 1 TR BL 1
+% GAMEOVER WINNER 0
+Game 67
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+% 1 0 TL TR 0
+% 0 0 TL TR 1
+% 2 0 TL TR 0
+% 0 1 TL TR 1
+% 4 5 TL TR 0
+% 0 2 TL TR 1
+% 4 4 TR BL 0
+% 0 0 TL TR 1
+% 4 2 TL TR 0
+% 0 1 TL TR 1
+% 1 0 TL TR 0
+% 0 2 TL TR 1
+% 2 0 TL BR 0
+% 0 0 TL TR 1
+% 0 4 TL BL 0
+% 0 5 TL TR 1
+% 2 5 TL BL 0
+% GAMEOVER WINNER 1
+Game 68
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayerGame started: START Player-0 260720743
+
+% 0 0 TL TR 0
+% 4 4 TR BR 1
+% 0 0 TL TR 0
+% 1 4 TL TR 1
+% 0 1 TL TR 0
+% 5 1 TR BR 1
+% 0 0 TL TR 0
+% 0 1 TL BL 1
+% 0 0 TL TR 0
+% 4 1 TL BL 1
+% 0 2 TL TR 0
+% 4 5 TR BR 1
+% 0 1 TL TR 0
+% 4 3 TL BR 1
+% 0 5 TL TR 0
+% 3 1 TR BR 1
+% GAMEOVER WINNER 0
+Game 69
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+Game started: START Player-1 260720743
+% 0 3 TR BL 0
+% 0 0 TL TR 1
+% 2 2 TL BR 0
+% 0 0 TL TR 1
+% 4 4 BL BR 0
+% 0 1 TL TR 1
+% 1 4 TR BR 0
+% 0 1 TL TR 1
+% 3 2 TL BL 0
+% 0 0 TL TR 1
+% 3 2 TR BL 0
+% 0 2 TL TR 1
+% 3 5 TL BL 0
+% 0 1 TL TR 1
+% GAMEOVER WINNER 1
+Game 70
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+% 0 0 TL TR 0
+% 1 5 TR BL 1
+% 0 0 TL TR 0
+% 1 1 TL BL 1
+% 0 1 TL TR 0
+% 1 2 BL BR 1
+% 0 1 TL TR 0
+% 5 0 TR BR 1
+% 0 2 TL TR 0
+% 0 2 TR BR 1
+% 0 0 TL TR 0
+% 5 4 TL TR 1
+% 0 1 TL TR 0
+% 2 5 TR BL 1
+% 0 2 TL TR 0
+% 0 0 BL BR 1
+% GAMEOVER WINNER 0
+Game 71
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+% 1 1 TL BL 0
+% 0 0 TL TR 1
+% 4 4 TR BL 0
+% 0 0 TL TR 1
+% 2 5 TL BR 0
+% 0 0 TL TR 1
+% 0 4 TR BR 0
+% 0 1 TL TR 1
+% 0 2 TL TR 0
+% 0 2 TL TR 1
+% 1 5 TL TR 0
+% 0 3 TL TR 1
+% 5 4 TL TR 0
+% 0 4 TL TR 1
+% 2 0 BL BR 0
+% 1 0 TL TR 1
+% GAMEOVER WINNER 1
+Game 72
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayerGame started: START Player-0 260720743
+
+% 0 0 TL TR 0
+% 5 2 TR BL 1
+% 0 0 TL TR 0
+% 2 1 TR BL 1
+% 0 0 TL TR 0
+% 3 5 TR BL 1
+% 0 1 TL TR 0
+% 2 5 BL BR 1
+% 0 1 TL TR 0
+% 3 0 TR BR 1
+% 0 2 TL TR 0
+% 1 2 TL BR 1
+% 0 2 TL TR 0
+% GAMEOVER WINNER 0
+Game 73
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+% 5 5 TL BL 0
+% 0 0 TL TR 1
+% 0 4 TR BR 0
+% 0 0 TL TR 1
+% 4 5 TL BR 0
+% 0 2 TL TR 1
+% 5 4 TL BL 0
+% 0 0 TL TR 1
+% 1 5 TR BL 0
+% 0 4 TL TR 1
+% 3 2 BL BR 0
+% 0 2 TL TR 1
+% 3 0 TL BR 0
+% 0 1 TL TR 1
+% GAMEOVER WINNER 1
+Game 74
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+% 0 0 TL TR 0
+% 5 0 TR BL 1
+% 0 0 TL TR 0
+% 4 5 TL BR 1
+% 0 0 TL TR 0
+% 0 1 TL BR 1
+% 0 0 TL TR 0
+% 4 1 TL TR 1
+% 0 1 TL TR 0
+% 3 1 TL TR 1
+% 0 2 TL TR 0
+% 2 5 TL BR 1
+% 0 2 TL TR 0
+% 5 5 BL BR 1
+% 1 0 TL TR 0
+% 1 2 TL BR 1
+% 0 2 TL TR 0
+% 1 2 BL BR 1
+% 5 3 TL BL 0
+% 4 1 TR BL 1
+% 1 0 TL TR 0
+% 3 5 TL BL 1
+% 1 0 TL TR 0
+% 2 4 TR BR 1
+% 0 4 TL TR 0
+% 4 5 TR BL 1
+% 1 0 TL TR 0
+% GAMEOVER WINNER 0
+Game 75
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+% 3 4 BL BR 0
+% 0 0 TL TR 1
+% 2 1 TL TR 0
+% 0 1 TL TR 1
+% 5 3 TL BR 0
+% 0 0 TL TR 1
+% 5 2 BL BR 0
+% 0 2 TL TR 1
+% 2 2 TL BR 0
+% 0 0 TL TR 1
+% 1 1 TR BL 0
+% 0 3 TL TR 1
+% 3 2 TL BL 0
+% 1 0 TL TR 1
+% 1 0 BL BR 0
+% 1 2 TL TR 1
+% 2 4 TL TR 0
+% 1 4 TL TR 1
+% 3 5 TL BL 0
+% 0 2 TR BR 1
+% 4 2 TL TR 0
+% 2 2 TR BR 1
+% 4 5 BL BR 0
+% 5 4 TL BL 1
+% 2 1 TR BL 0
+% 0 1 TL TR 1
+% GAMEOVER WINNER 0
+Game 76
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+% 0 0 TL TR 0
+% 5 3 TL TR 1
+% 0 1 TL TR 0
+% 4 3 TR BL 1
+% 0 0 TL TR 0
+% 0 1 TR BR 1
+% 0 0 TL TR 0
+% 4 2 TL BR 1
+% 0 1 TL TR 0
+% 4 0 TR BR 1
+% 0 2 TL TR 0
+% 5 5 TR BR 1
+% 0 0 TL TR 0
+% 2 1 TR BL 1
+% 0 2 TL TR 0
+% 5 4 TL TR 1
+% GAMEOVER WINNER 0
+Game 77
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+% 0 0 TR BR 0
+% 0 1 TL TR 1
+% 2 1 BL BR 0
+% 0 0 TL TR 1
+% 1 2 TL BL 0
+% 0 0 TL TR 1
+% 2 0 TL TR 0
+% 0 1 TL TR 1
+% 1 4 TR BL 0
+% 0 1 TL TR 1
+% 3 2 TR BR 0
+% 0 2 TL TR 1
+% 5 1 TL BR 0
+% 0 2 TL TR 1
+% GAMEOVER WINNER 1
+Game 78
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayerGame started: START Player-0 260720743
+
+% 0 0 TL TR 0
+% 5 4 TR BL 1
+% 0 0 TL TR 0
+% 4 2 TR BR 1
+% 0 0 TL TR 0
+% 1 2 BL BR 1
+% 0 0 TL TR 0
+% 5 5 TR BR 1
+% 0 1 TL TR 0
+% 4 2 TL BL 1
+% 0 1 TL TR 0
+% 4 4 BL BR 1
+% 0 2 TL TR 0
+% 2 5 TR BR 1
+% 0 2 TL TR 0
+% 4 0 TL TR 1
+% 0 4 TL TR 0
+% 1 0 TL BL 1
+% 0 1 TL TR 0
+% GAMEOVER WINNER 0
+Game 79
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+% 0 3 TR BR 0
+% 0 0 TL TR 1
+% 1 3 BL BR 0
+% 0 0 TL TR 1
+% 2 2 BL BR 0
+% 0 1 TL TR 1
+% 4 1 BL BR 0
+% 0 1 TL TR 1
+% 3 1 TR BL 0
+% 0 2 TL TR 1
+% 1 0 TR BL 0
+% 0 2 TL TR 1
+% 2 0 TR BR 0
+% 0 2 TL TR 1
+% 4 1 TR BR 0
+% GAMEOVER WINNER 1
+Game 80
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+% 0 0 TL TR 0
+% 2 2 TL BR 1
+% 0 0 TL TR 0
+% 3 5 TR BL 1
+% 0 1 TL TR 0
+% 2 1 TL BR 1
+% 0 0 TL TR 0
+% 2 2 BL BR 1
+% 0 2 TL TR 0
+% 1 1 TL BL 1
+% 0 0 TL TR 0
+% 4 0 TL BR 1
+% 0 1 TL TR 0
+% 2 3 TL BR 1
+% GAMEOVER WINNER 0
+Game 81
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-0 RandomPlayerGame started: START Player-1 260720743
+
+% 4 0 TR BR 0
+% 0 0 TL TR 1
+% 1 5 TL BL 0
+% 0 0 TL TR 1
+% 3 1 TR BL 0
+% 0 1 TL TR 1
+% 3 5 BL BR 0
+% 0 0 TL TR 1
+% 4 2 TR BR 0
+% 0 2 TL TR 1
+% 3 0 TL BR 0
+% 0 2 TL TR 1
+% 1 5 TL TR 0
+% 1 0 TL TR 1
+% 3 5 TR BL 0
+% 0 4 TL TR 1
+% 5 2 TL TR 0
+% 1 0 TL TR 1
+% 1 0 TL BR 0
+% 0 1 TL TR 1
+% GAMEOVER WINNER 1
+Game 82
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+Game started: START Player-1 RandomPlayer
+% 0 0 TL TR 0
+% 4 3 TL BR 1
+% 0 0 TL TR 0
+% 4 5 BL BR 1
+% 0 1 TL TR 0
+% 3 1 BL BR 1
+% 0 1 TL TR 0
+% 4 0 BL BR 1
+% 0 2 TL TR 0
+% 2 5 TR BL 1
+% 0 2 TL TR 0
+% 4 5 TR BR 1
+% GAMEOVER WINNER 0
+Game 83
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+% 1 3 TL BL 0
+% 0 0 TL TR 1
+% 1 1 TR BR 0
+% 0 0 TL TR 1
+% 3 1 TL BL 0
+% 0 0 TL TR 1
+% 1 3 TL TR 0
+% 0 2 TL TR 1
+% 4 1 TL TR 0
+% 0 4 TL TR 1
+% 0 2 BL BR 0
+% 1 2 TL TR 1
+% 5 1 BL BR 0
+% 1 1 TL TR 1
+% 5 1 TL BR 0
+% 0 1 TL TR 1
+% 3 1 TR BR 0
+% 1 2 TL TR 1
+% 2 5 TR BR 0
+% 0 5 TL TR 1
+% GAMEOVER WINNER 1
+Game 84
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayerGame started: START Player-0 260720743
+
+% 0 0 TL TR 0
+% 3 0 TL BL 1
+% 0 1 TL TR 0
+% 5 2 TR BR 1
+% 0 1 TL TR 0
+% 1 2 TL BL 1
+% 0 0 TL TR 0
+% 5 2 BL BR 1
+% 0 2 TL TR 0
+% 4 0 TL BL 1
+% 0 2 TL TR 0
+% 3 1 TL BR 1
+% 0 0 TL TR 0
+% 2 3 TL TR 1
+% 0 1 TL TR 0
+% 4 4 TL TR 1
+% 0 2 TL TR 0
+% GAMEOVER WINNER 0
+Game 85
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+Game started: START Player-1 260720743
+% 3 1 TR BR 0
+% 0 0 TL TR 1
+% 0 1 TL TR 0
+% 0 1 TL TR 1
+% 4 1 TL BR 0
+% 0 0 TL TR 1
+% 4 2 TL TR 0
+% 0 1 TL TR 1
+% 1 3 TL BL 0
+% 0 0 TL TR 1
+% 1 2 TR BR 0
+% 0 2 TL TR 1
+% 1 2 BL BR 0
+% 0 0 TL TR 1
+% 5 3 TL BR 0
+% 4 4 TL BL 1
+% 2 5 TR BL 0
+% 0 2 TL TR 1
+% 5 3 TL BL 0
+% 0 2 TL TR 1
+% 5 4 TL BL 0
+% 4 0 TR BR 1
+% 4 3 BL BR 0
+% 0 2 TL TR 1
+% GAMEOVER WINNER 1
+Game 86
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+% 0 0 TL TR 0
+% 0 1 TR BL 1
+% 0 0 TL TR 0
+% 5 1 TL BL 1
+% 0 1 TL TR 0
+% 4 1 TR BR 1
+% 0 2 TL TR 0
+% 0 1 TR BL 1
+% 0 0 TL TR 0
+% 4 5 TL BR 1
+% 0 2 TL TR 0
+% 3 3 TR BR 1
+% 0 2 TL TR 0
+% 2 4 TL TR 1
+% 0 4 TL TR 0
+% 1 4 TL TR 1
+% 4 1 TR BR 0
+% 5 2 TL BL 1
+% 1 0 TL TR 0
+% 5 5 TR BL 1
+% 1 0 TL TR 0
+% 5 0 TL BL 1
+% 2 1 TR BR 0
+% 1 5 TL BR 1
+% 0 5 TL TR 0
+% GAMEOVER WINNER 0
+Game 87
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+% 5 0 TL BR 0
+% 0 0 TL TR 1
+% 5 5 TL BR 0
+% 0 0 TL TR 1
+% 2 3 TR BR 0
+% 0 1 TL TR 1
+% 4 2 TL BR 0
+% 0 1 TL TR 1
+% 5 2 TR BL 0
+% 0 2 TL TR 1
+% 1 5 TR BR 0
+% 0 0 TL TR 1
+% 4 2 BL BR 0
+% GAMEOVER WINNER 1
+Game 88
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+% 0 0 TL TR 0
+% 3 5 TL BL 1
+% 0 0 TL TR 0
+% 4 0 TR BL 1
+% 0 1 TL TR 0
+% 1 2 TL BL 1
+% 0 1 TL TR 0
+% 2 2 BL BR 1
+% 0 2 TL TR 0
+% 5 3 TL BR 1
+% 0 0 TL TR 0
+% 0 5 TL BL 1
+% GAMEOVER WINNER 0
+Game 89
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+% 0 1 TL BR 0
+% 0 0 TL TR 1
+% 1 1 BL BR 0
+% 0 0 TL TR 1
+% 4 5 TR BL 0
+% 0 1 TL TR 1
+% 1 2 TL TR 0
+% 0 2 TL TR 1
+% 5 1 TL BL 0
+% 0 1 TL TR 1
+% GAMEOVER WINNER 1
+Game 90
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+% 0 0 TL TR 0
+% 5 2 TL TR 1
+% 0 1 TL TR 0
+% 2 0 TR BL 1
+% 0 0 TL TR 0
+% 1 3 TL BR 1
+% 0 0 TL TR 0
+% 3 5 BL BR 1
+% 0 1 TL TR 0
+% 0 2 TL BR 1
+% 0 2 TL TR 0
+% 3 0 TL BL 1
+% 0 1 TL TR 0
+% 4 3 BL BR 1
+% 1 0 TL TR 0
+% 5 5 TR BL 1
+% GAMEOVER WINNER 0
+Game 91
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743Game started: START Player-0 RandomPlayer
+
+% 4 3 TR BR 0
+% 0 0 TL TR 1
+% 2 2 BL BR 0
+% 0 0 TL TR 1
+% 2 4 BL BR 0
+% 0 1 TL TR 1
+% 1 5 TL BR 0
+% 0 0 TL TR 1
+% 0 5 TL TR 0
+% 0 1 TL TR 1
+% 5 1 TL BR 0
+% 0 1 TL TR 1
+% 2 2 TL BL 0
+% 0 0 TL TR 1
+% 0 5 TL TR 0
+% 0 1 TL TR 1
+% 1 3 BL BR 0
+% 0 2 TR BR 1
+% GAMEOVER WINNER 1
+Game 92
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayerGame started: START Player-0 260720743
+
+% 0 0 TL TR 0
+% 4 2 TL TR 1
+% 0 1 TL TR 0
+% 4 0 BL BR 1
+% 0 0 TL TR 0
+% 1 1 TL TR 1
+% 0 1 TL TR 0
+% 3 0 TL BR 1
+% 0 0 TL TR 0
+% 2 2 TL BR 1
+% 0 2 TL TR 0
+% 3 1 TL BR 1
+% 0 2 TL TR 0
+% GAMEOVER WINNER 0
+Game 93
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743Game started: START Player-0 RandomPlayer
+
+% 5 2 BL BR 0
+% 0 0 TL TR 1
+% 2 3 TL BR 0
+% 0 0 TL TR 1
+% 5 0 TL BR 0
+% 0 0 TL TR 1
+% 2 4 TL BR 0
+% 0 1 TL TR 1
+% 5 3 TL BR 0
+% 0 1 TL TR 1
+% 2 2 TL BR 0
+% 0 1 TL TR 1
+% 1 1 TR BL 0
+% 0 2 TL TR 1
+% 0 2 TR BL 0
+% GAMEOVER WINNER 1
+Game 94
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayerGame started: START Player-0 260720743
+
+% 0 0 TL TR 0
+% 1 2 TL BR 1
+% 0 0 TL TR 0
+% 4 2 BL BR 1
+% 0 1 TL TR 0
+% 4 0 BL BR 1
+% 0 1 TL TR 0
+% 3 4 TL BL 1
+% 0 0 TL TR 0
+% 0 4 TL BL 1
+% 0 2 TL TR 0
+% 2 0 TR BL 1
+% 0 2 TL TR 0
+% 1 2 BL BR 1
+% 0 2 TL TR 0
+% 3 2 TL BL 1
+% 0 0 TL TR 0
+% 2 5 TL BL 1
+% GAMEOVER WINNER 0
+Game 95
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+% 1 5 BL BR 0
+% 0 0 TL TR 1
+% 3 0 TL BR 0
+% 0 0 TL TR 1
+% 3 4 TR BL 0
+% 0 1 TL TR 1
+% 1 1 BL BR 0
+% 0 1 TL TR 1
+% 3 0 TL BL 0
+% 0 2 TL TR 1
+% 2 0 TL BL 0
+% 0 2 TL TR 1
+% 5 3 TL BL 0
+% 0 2 TL TR 1
+% 2 5 TR BR 0
+% 2 0 TR BR 1
+% 3 5 TR BR 0
+% 0 4 TL TR 1
+% 1 2 TR BL 0
+% 1 0 TL TR 1
+% 5 4 TR BR 0
+% GAMEOVER WINNER 1
+Game 96
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+% 0 0 TL TR 0
+% 3 5 BL BR 1
+% 0 0 TL TR 0
+% 1 3 TL BL 1
+% 0 0 TL TR 0
+% 3 1 BL BR 1
+% 0 1 TL TR 0
+% 3 2 TL TR 1
+% 0 2 TL TR 0
+% 4 1 TL BL 1
+% 0 0 TL TR 0
+% 4 2 TL TR 1
+% 0 1 TL TR 0
+% GAMEOVER WINNER 0
+Game 97
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+% 0 1 TL TR 0
+% 0 0 TL TR 1
+% 2 5 TL TR 0
+% 0 1 TL TR 1
+% 1 3 TL BR 0
+% 0 0 TL TR 1
+% 3 5 TR BR 0
+% 0 2 TL TR 1
+% 0 0 BL BR 0
+% 1 0 TL TR 1
+% 4 3 TL BL 0
+% 0 2 TR BR 1
+% 2 0 TL BL 0
+% 0 3 TL TR 1
+% 0 2 TR BR 0
+% 0 1 TL TR 1
+% 1 5 TR BR 0
+% 1 1 TL TR 1
+% 4 4 TL BR 0
+% 1 5 TL TR 1
+% 4 4 TL BR 0
+% GAMEOVER WINNER 1
+Game 98
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayer
+Game started: START Player-0 260720743
+% 0 0 TL TR 0
+% 5 3 TL BL 1
+% 0 0 TL TR 0
+% 0 4 TL TR 1
+% 0 2 TL TR 0
+% 5 5 TL BR 1
+% 0 0 TL TR 0
+% 3 5 TR BL 1
+% 0 3 TL TR 0
+% 2 5 TR BL 1
+% 0 1 TL TR 0
+% 4 5 TR BR 1
+% 0 1 TL TR 0
+% 4 3 TR BL 1
+% 0 1 TL TR 0
+% 1 0 TR BR 1
+% 0 5 TL TR 0
+% 1 2 TL BL 1
+% GAMEOVER WINNER 0
+Game 99
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+% 5 3 TL TR 0
+% 0 0 TL TR 1
+% 3 2 TR BL 0
+% 0 0 TL TR 1
+% 5 1 TL BL 0
+% 0 1 TL TR 1
+% 1 4 BL BR 0
+% 0 1 TL TR 1
+% 1 4 TR BL 0
+% 0 2 TL TR 1
+% 5 0 TL BR 0
+% 0 0 TL TR 1
+% 5 5 TL BL 0
+% 0 2 TL TR 1
+% 3 4 TR BR 0
+% GAMEOVER WINNER 1
+Game 100
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 260720743
+% START Player-1 RandomPlayer
+Game started: START Player-1 RandomPlayerGame started: START Player-0 260720743
+
+% 0 0 TL TR 0
+% 2 4 TR BL 1
+% 0 0 TL TR 0
+% 5 0 TL BR 1
+% 0 0 TL TR 0
+% 4 3 TL BL 1
+% 0 1 TL TR 0
+% 4 1 BL BR 1
+% 0 1 TL TR 0
+% 2 2 TL TR 1
+% 0 2 TL TR 0
+% 2 5 TL BL 1
+% 0 0 TL TR 0
+% 0 5 TL BL 1
+% 2 3 TL BL 0
+% 0 4 TL TR 1
+% 1 1 TL TR 0
+% 2 0 TL BL 1
+% 2 4 TL BL 0
+% 4 2 TR BR 1
+% 0 4 TL TR 0
+% 1 5 TR BR 1
+% 0 2 TL TR 0
+% 2 5 TL BL 1
+% 4 2 TR BR 0
+% 1 1 TL BR 1
+% GAMEOVER WINNER 0
+Game 101
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-0
+Connected. Waiting for game to start...
+Connecting to localhost:8123... 
+Accepted connection from localhost: Player-1
+Server started. Waiting for incoming connections on 142.157.60.108:8123 ...
+Connected. Waiting for game to start...
+% START Player-0 RandomPlayer
+% START Player-1 260720743
+Game started: START Player-1 260720743
+Game started: START Player-0 RandomPlayer
+% 1 4 TL BR 0
+% 0 0 TL TR 1
+% 4 3 TL BL 0
+% 0 0 TL TR 1
+% 2 3 TL BR 0
+% 0 0 TL TR 1
+% 3 1 TR BR 0
+% 0 1 TL TR 1
+% 0 5 TL TR 0
+% 0 4 TL TR 1
+% 1 0 TR BL 0
+% 0 2 TL TR 1
+% 4 4 TL TR 0
+% 0 3 TL TR 1
+% 1 5 BL BR 0
+% 0 2 TL TR 1
+% 5 1 TL TR 0
+% 1 0 TL TR 1
+% 2 2 TL BR 0
+% 1 0 TL TR 1
+% 5 4 TR BL 0
+% 0 4 TL TR 1
+% GAMEOVER WINNER 0

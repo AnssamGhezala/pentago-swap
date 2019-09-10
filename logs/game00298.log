@@ -1,0 +1,19 @@
+# Server version 0.08 running on 192.168.20.86:8123
+# Game ID: 298
+# Board class: pentago_swap.PentagoBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Wed Apr 10 05:35:33 EDT 2019
+# Player 1: Player-0, '260720743', running on 192.168.20.86
+# Player 2: Player-1, 'Human', running on 192.168.20.86
+START Player-0 260720743
+START Player-1 Human
+0 0 TL TR 0
+3 3 TR BL 1
+0 0 TL TR 0
+4 3 TR BL 1
+0 0 TL TR 0
+4 4 TR BL 1
+0 1 TL TR 0
+5 5 TR BL 1
+0 1 TL TR 0

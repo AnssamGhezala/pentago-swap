@@ -1,0 +1,24 @@
+# Server version 0.08 running on dhcp234253.rez.mcgill.ca:8123
+# Game ID: 319
+# Board class: pentago_swap.PentagoBoard
+# Timeout: 2000
+# First Move Timeout: 30000
+# Date: Wed Apr 10 13:28:09 EDT 2019
+# Starting at move 12
+# Player 1: Player-0, '260720743', running on dhcp234253.rez.mcgill.ca
+# Player 2: Player-1, 'Human', running on dhcp234253.rez.mcgill.ca
+START Player-0 260720743
+START Player-1 Human
+0 0 TL TR 0
+0 1 TL TR 1
+0 1 TL TR 0
+1 2 TL TR 1
+0 2 TL TR 0
+2 3 BR BL 1
+0 0 TL TR 0
+3 1 TR TL 1
+0 2 TL TR 0
+4 2 TR TL 1
+1 0 TL TR 0
+GAMEOVER USER CANCEL UNDECIDED
+# Game ended: Wed Apr 10 13:28:12 EDT 2019
